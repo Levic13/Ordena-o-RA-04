@@ -1,0 +1,16 @@
+Tamanho do Vetor,Algoritmo,Tempo de Execução (ms),Número de Trocas,Número de Iterações
+50,Merge Sort,0.00225,257,127
+50,Heap Sort,0.01906,779,779
+50,Insertion Sort,0.01356,339,189
+500,Merge Sort,0.01606,3983,1991
+500,Heap Sort,0.07022,29125,29125
+500,Insertion Sort,0.80042,9978,4989
+1000,Merge Sort,0.03542,8104,4052
+1000,Heap Sort,0.1415,32213,32213
+1000,Insertion Sort,2.5528,19947,9973
+5000,Merge Sort,0.15482,24464,12232
+5000,Heap Sort,0.60224,139701,139701
+5000,Insertion Sort,1.4645,62422,31211
+10000,Merge Sort,0.09872,43483,21741
+10000,Heap Sort,1.28948,510946,510946
+10000,Insertion Sort,4.09708,127864,63932
